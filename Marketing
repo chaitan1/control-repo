@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T23:31:23.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="vELHzZjaNCkIcB-5tsdm" version="12.2.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-14T23:38:43.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="OqWWf6g2Q8sg9nHO4QYc" version="12.2.6" type="github" pages="2">
   <diagram id="65MYgy_Rp_N3aAhCmbRw" name="Page-1">
     <mxGraphModel dx="1590" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -121,14 +121,17 @@
         <mxCell id="zqhHPbhYCP3l6ykmwGyy-57" value="WhatsApp / Snapchat / Instagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="580" width="135" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="zqhHPbhYCP3l6ykmwGyy-67" value="SEM (SEARCH ENGINE MARKETING)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="294" width="230" height="20" as="geometry"/>
+        <mxCell id="zqhHPbhYCP3l6ykmwGyy-67" value="How much is per person marketing cost?&lt;br&gt;How many people are active patients&lt;br&gt;How many people we have targeted in a campaing?&lt;br&gt;&lt;br&gt;How much money we are making per person anually - per including all costs.&lt;br&gt;&lt;br&gt;&lt;br&gt;Fixed Expenses and Variable expenses - profit.&lt;br&gt;&lt;br&gt;How many persons came in last 12 months ?&lt;br&gt;What are the treatments done for the last 12 months?&lt;br&gt;what is the treatment / patient (gross)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="504" width="230" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="E430sqTsTkLOm92Ta1wR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E430sqTsTkLOm92Ta1wR-1" target="zqhHPbhYCP3l6ykmwGyy-34">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="E430sqTsTkLOm92Ta1wR-1" value="&lt;b&gt;Population / Clinic Viability&lt;br&gt;(NEXT PAGE)&lt;br&gt;&lt;/b&gt;" style="text;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="97" width="180" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="0ZMWR2pwXHxxT_t1dcfq-1" value="SEM (SEARCH ENGINE MARKETING)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="304" width="230" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
